@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/*ELEMENTS*/
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+table {
+    width: 400px;
+	margin: 0 auto;
+    font-size: 30px;
+}
+th, td {
+    border: 1px solid black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px 200px;
+}
+ 
+/* CLASSES */
+.aliceBlue {
+    background-color: aliceblue;
+}
+
+.antiqueWhite {
+    background-color: antiquewhite;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.aquaMarine {
+    background-color: aquamarine;
+}
+
+.azure {
+    background-color: azure;
+}
+
+.beige {
+    background-color: beige;
+}
+
+.bisque {
+    backdrop-color: bisque;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.blanchAlmond {
+    background-color: blanchedalmond;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.blueViolet {
+    background-color: blueviolet;
+}
+.brown {
+    background-color: brown;
+}
+
+.burlyWood {
+    background-color: burlywood;
+}
+
+.cadetBlue {
+    background-color: cadetblue;
+}
+
+.chartreuse {
+    background-color: chartreuse;
+}
+
+.chocolate {
+    background-color: chocolate;
+}
+
+.coral {
+    background-color: coral;
+}
+
+.cornflowerBlue {
+    background-color: cornflowerblue;
+}
+
+.cornsilk {
+    background-color: cornsilk;
+}
+
+.crimson {
+    background-color: crimson;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.darkBlue {
+    background-color: darkblue;
+    color: white;
+}
+
+.darkCyan {
+    background-color: darkcyan;
+}
